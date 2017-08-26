@@ -1,3 +1,3 @@
 # Machine Learning Tutorial
 
-Linear Regression and Gradient Descent using numpy
+1. Linear Regression and Gradient Descent using numpy
